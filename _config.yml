@@ -22,7 +22,7 @@ title: BU Spark Tech Resources
 email: buspark@bu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Boston University Spark! Technical Information Website
-baseurl: "." # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bu-spark.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  bu-spark
 logo: "/assets/spark-logo-round.png"
