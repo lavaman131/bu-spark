@@ -6,8 +6,6 @@ title: "Learning Ambassadors"
 
 # Learning Ambassadors
 
-$$
-\sum_{i=1}^{100} 5i
-$$
+[Intro to User Interviews]({% link _posts/2023-12-07-user-interviews-blog.md %})
 
-$$\text{Spark!} = e^{\pi i}$$
+[Personal Projects]({% link _posts/2023-12-07-personal-projects.md %})
