@@ -44,7 +44,7 @@ title: Personal Projects
 
        What can you do if you’re lost on where to start, or if you’ve hit a wall? There are a couple of resources on campus that you can go to if you’re running into issues with your personal projects:
 
-![Syntax and Snax](/assets/posts/2023-12-07-personal-projects/sns.png)
+![Syntax and Snax](/assets/learning-ambassadors/posts/2023-12-07-personal-projects/sns.png)
 
 ### Sign up for a Spark! consultation!
 
